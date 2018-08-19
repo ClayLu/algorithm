@@ -1,3 +1,5 @@
+# https://py.checkio.org/station/home/
+
 import collections
 import operator
 
